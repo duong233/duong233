@@ -1,9 +1,11 @@
-- 🔭 I’m currently working as a developer
+### Hi there 👋
+I am Dương, i am AI engineer
+Modeling with NLP
 - 🌱 I’m currently learning Computer Engineering at Hanoi University of Science and Technology
 - 🤔 I’m looking for help with Data Science
 - 📫 How to reach me: this is my email address so you can contact with: duong.vt2332k@gmail.com
 - 😄 Pronouns: DO WHAT YOU LOVE, LOVE WHAT YOU DO
-- ⚡ Fun fact: I'm an introvert parttime haha
+- ⚡ Fun fact: I kinda like football, send me msg if you want to play a match with my team haha
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
