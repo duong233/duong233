@@ -21,6 +21,7 @@ Passionate about learning language models.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="kafka" **alt="kafka" width="40" height="40"/>
 </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -32,12 +33,12 @@ Passionate about learning language models.
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+<!--   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
 <img src="https://komarev.com/ghpvc/?username=duong233&style=flat-square&color=blue" alt=""/>
-### Hi there 👋
+Hi there 👋
 <!--
 **duong233/duong233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
