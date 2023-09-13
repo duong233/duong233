@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Dương, i am AI engineer
-Modeling with NLP
+Passionate about learning language models.
 - 🌱 I’m currently learning Computer Engineering at Hanoi University of Science and Technology
 - 🤔 I’m looking for help with Data Science
 - 📫 How to reach me: this is my email address so you can contact with: duong.vt2332k@gmail.com
