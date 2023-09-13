@@ -1,11 +1,13 @@
 ### Hi there 👋
-I am Dương, i am AI engineer
+I am Dương, i am AI engineer.\
 Passionate about learning language models.
-- 🌱 I’m currently learning Computer Engineering at Hanoi University of Science and Technology
-- 🤔 I’m looking for help with Data Science
-- 📫 How to reach me: this is my email address so you can contact with: duong.vt2332k@gmail.com
-- 😄 Pronouns: DO WHAT YOU LOVE, LOVE WHAT YOU DO
-- ⚡ Fun fact: I kinda like football, send me msg if you want to play a match with my team haha
+- 🔭 I’m currently working on Computer Vision.
+- 🌱 I’m currently learning Computer Engineering at the School of Information and Communication Technology( not graduated yet hehe )
+- 👯 I’m looking to collaborate on papers related to the Language model area
+- 🤔 I’m looking for help with French.
+- 📫 How to reach me: feel free to contact with me at: duong.vt2332k@gmail.com
+- 😄 Pronouns: DON'T WASTE YOUR YOUTH, ENJOY EVERY SINGLE MOMENT WITH YOUR BELOVED PEOPLE
+- ⚡ Fun fact: I kinda like football, send me a msg if you want to play a match with my team haha 😄
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -18,10 +20,24 @@ Passionate about learning language models.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="kafka" **alt="kafka" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="torch" alt="torch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" **alt="csharp" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="kafka" **alt="kafka" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv" **alt="opencv" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira" **alt="jira" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" **alt="pycharm" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" **alt="anaconda" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" **alt="ssh" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="sqlalchemy" **alt="sqlalchemy" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" **alt="flask" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="kaggle" **alt="kaggle" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" **alt="latex" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="kafka" **alt="kafka" width="40" height="40"/>  
 </div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
