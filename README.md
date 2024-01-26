@@ -1,13 +1,11 @@
 ### Hi there 👋
-I am Dương, i am AI engineer.\
+I am Dương, i am an AI engineer.\
 Passionate about learning language models.
 - 🔭 I’m currently working on Computer Vision.
-- 🌱 I’m currently learning Computer Engineering at the School of Information and Communication Technology( not graduated yet hehe )
-- 👯 I’m looking to collaborate on papers related to the Language model area
-- 🤔 I’m looking for help with French.
-- 📫 How to reach me: feel free to contact with me at: duong.vt2332k@gmail.com
-- 😄 Pronouns: DON'T WASTE YOUR YOUTH, ENJOY EVERY SINGLE MOMENT WITH YOUR BELOVED PEOPLE
-- ⚡ Fun fact: I kinda like football, send me a msg if you want to play a match with my team haha 😄
+- 🌱 I’m currently learning Computer Engineering at the School of Information and Communication Technology( graduated on 1/2/2024 ).
+- 👯 I’m looking to collaborate on papers related to the Language model area.
+- 📫 How to reach me: feel free to contact me at: duong.vt2332k@gmail.com.
+- ⚡ Fun fact: I kinda like football, send me a msg if you want to play a match with my team hehe.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -46,7 +44,7 @@ Passionate about learning language models.
   <a href="https://www.facebook.com/m4st3r233/">
     <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/tdoug/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--   <a href="your-twitter-URL">
